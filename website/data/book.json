@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A lonely musician backpacker becomes obsessed with a beautiful voice singing through the hostel's pipes, following it into the ancient sewers beneath Athens where a trapped siren drowns him in her embrace.",
     "long": ""
   },
   "death_type": "Siren Plumbing",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "The most beautiful song you'll ever die to."
 }
